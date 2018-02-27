@@ -1,7 +1,5 @@
 =======================================================================================================================================
-"Read Me" file for the COT 5611 – Operating Systems Design Principles Home Work Assignment 1 - Dated - 2/26/2018
-
-GITHUB REPO - https://github.com/samanpanwar/os-assignment-1
+ COT 5611 – Operating Systems Design Principles Home Work Assignment 1
 
 CONTENTS:
 - Running program for Question1
